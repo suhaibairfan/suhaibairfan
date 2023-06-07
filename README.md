@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suhaibairfan
+- 👋 Hi, I’m @suhaibashahid
 - 👀 I’m interested in exploring new things & travelling to new places! 
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on exciting open source projects!
